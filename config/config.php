@@ -1,7 +1,12 @@
 <?php
-define('SAND_KEY', 'TEST-6f50ec87-78ac-44b5-8647-91fffb149897');
+//information from https://www.mercadopago.com.br/developers/panel/credentials?id=1261619918742645
+//your public key teste
+define('SAND_KEY', '');
+//your key teste
 define('SAND_TOKEN', 'TEST-1261619918742645-112613-d0d67ad404651a6f03cd04860d087d6c-203121858');
-define('PROD_KEY', 'APP_USR-d7d369cd-1c89-4deb-ad0f-6d442c0abe80');
-define('PROD_TOKEN', 'APP_USR-1261619918742645-112613-d8323f072d2f2a83a5a98a09f34cf450-203121858');
-define('CLI_ID', '1261619918742645');
-define('CLI_SECRECT', 'uyESGbeghRRJwxezX8X5yCrcdV8Wl6Ku');
+//your public key
+define('PROD_KEY', '');
+//your key
+define('PROD_TOKEN', '');
+define('CLI_ID', '');
+define('CLI_SECRECT', '');
